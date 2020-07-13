@@ -11,3 +11,7 @@ and I play [roller derby](https://wftda.com), currently for [Bear City Roller De
 ## Work
 
 Currently, I work at [VMware Tanzu](https://tanzu.vmware.com), where I'm the technical lead for the messaging and streaming program. We build [RabbitMQ](https://rabbitmq.com).
+
+I've given a few talks on things like [Concourse best practices](https://www.youtube.com/watch?v=FEHzcgr11Ao) and leading teams into maintenance mode.
+
+I used to be a theoretical physicist, working on String Theory and Quantum Gravity. [Publications](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20gary%2C%20m)
