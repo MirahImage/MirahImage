@@ -12,7 +12,7 @@ and I play [roller derby](https://wftda.com), currently for [Bear City Roller De
 
 ## Work
 
-Currently, I work at [VMware Tanzu](https://tanzu.vmware.com), where I'm the technical lead for the messaging and streaming program. We build [RabbitMQ](https://rabbitmq.com).
+Currently, I work at [VMware](https://vmware.com), where I'm the technical lead for the messaging and streaming program. We build [RabbitMQ](https://rabbitmq.com).
 
 I've given a few talks on things like [Concourse best practices](https://www.youtube.com/watch?v=FEHzcgr11Ao) and leading teams into maintenance mode.
 
