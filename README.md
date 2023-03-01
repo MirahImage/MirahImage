@@ -1,7 +1,5 @@
 # Hi, I'm Mirah
 
-> She/Her
-
 ![Mirah halfway up a the Drachenwand klettersteig in Austria. She is wearing a helmet and sunglasses and has a backpack with hydration system slung over her shoulder.](https://github.com/MirahImage/MirahImage/blob/main/klettersteig.jpg)
 
 I like hiking and climbing in the mountains
